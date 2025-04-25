@@ -11,9 +11,6 @@ Real-time debris tracking is done using: https://www.space-track.org/
 Password and username in four.mlx file
 
 My current workflow(optional to work the same way, up to you):
-Here's a detailed, step-by-step guide to develop and validate a satellite collision avoidance system using MATLAB's Aerospace Toolbox and Blockset:
-
----
 
 ### **Step 1: Set Up Your Environment**
 1. **Install Required Toolboxes**
