@@ -8,8 +8,6 @@ Problem statement: https://github.com/mathworks/MATLAB-Simulink-Challenge-Projec
 
 Real-time debris tracking is done using: https://www.space-track.org/
 
-Password and username in four.mlx file
-
 My current workflow(optional to work the same way, up to you):
 
 ### **Step 1: Set Up Your Environment**
